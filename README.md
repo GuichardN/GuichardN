@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning through freecodecamp and The Odin Project. Completed Scientific Learning with Python and responsive HTML and CSS certificates. Currently working through the JS portion.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me on discord guichard1
-- 😄 Pronouns: ...
 - ⚡ Fun fact: I should have done this YEARS ago
 
 <!---
